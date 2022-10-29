@@ -325,3 +325,19 @@ main {
     line-height: 1.8rem;
     font-weight: 700;
 }
+
+.main--jocker {
+    width: 100%;
+    min-width: 320px;
+    height: 50vh;
+    padding-top: 64px;
+    text-align: center;
+    font-size: 2.4rem;
+    line-height: 2.6rem;
+    font-weight: 700;
+    color: var(--white);
+    background-image: url("./assets/imgs/bitcoinbaby.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
