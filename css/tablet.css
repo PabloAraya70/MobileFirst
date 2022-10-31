@@ -1,0 +1,28 @@
+
+.main-monedas {
+    justify-content: center;
+}
+
+.main-currency-table {
+    margin: 0 15px;
+}
+
+.benefits--article-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.benefits-container--detail-container {
+    width: 288px;
+    margin: 0 20px 20px;
+}
+
+.payment-plans--slider {
+    justify-content: center;
+}
+
+.slider--card {
+    margin: 0 15px;
+}
